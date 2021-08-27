@@ -13,4 +13,6 @@
 - Versioning with TensorFlow Serving
 
 
-Official Repo: https://github.com/AndreBluhm/Coursera_Deploy-Deep-Learning-Models-TF-Serving-Docker
+
+Official Repo:
+https://github.com/snehankekre/Deploy-Deep-Learning-Models-TF-Serving-Docker
