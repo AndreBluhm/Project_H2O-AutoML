@@ -76,7 +76,6 @@ metalearner = h2o.get_model(se.metalearner()['name'])
 
 metalearner.varimp()
 
-# %%
 """
 ### Task 7: Base Learner XGBoost Model Exploration
 """
