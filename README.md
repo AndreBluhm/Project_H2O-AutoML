@@ -1,18 +1,12 @@
 # Project_Automatic-Machine-Learning-with-H2O-AutoML-and-Python
 
-
-- Introduction and Demo Deployment
-- Load and Preprocess the Amazon Fine Foods Review Data
-- Build Text Classification Model using Keras and TensorFlow Hub
-- Define Training Procedure
-- Train and Export Model as Protobuf
-- Test Model
-- TensorFlow Serving with Docker
-- Setup a REST Client to Perform Model Predictions
-- Setup a gRPC Client to Perform Model Predictions
-- Versioning with TensorFlow Serving
-
-
+- Introduction and Project Overview
+- Getting to Know Rhyme and the Marketing Data
+- Load the Data
+- Data Preprocessing & Start H2O
+- Run H2O AutoML
+- AutoML Leaderboard and Ensemble Exploration
+- Base Learner Exploration 
 
 Official Repo:
 https://github.com/snehankekre/Deploy-Deep-Learning-Models-TF-Serving-Docker
