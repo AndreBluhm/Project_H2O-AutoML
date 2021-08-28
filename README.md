@@ -1,4 +1,4 @@
-# Project_Automatic-Machine-Learning-with-H2O-AutoML-and-Python
+# Project: Automatic Machine Learning with H2O AutoML and Python
 
 ![Alt Image text](https://github.com/AndreBluhm/Project_H2O-AutoML/blob/main/Coursera_Automatic-Machine-Learning-with-H2O-AutoML-and-Python.png?raw=true)
 
